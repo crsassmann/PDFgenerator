@@ -1,6 +1,5 @@
 node_modules
 .next
-.next/cache
 out
 dist
 .DS_Store
@@ -12,3 +11,4 @@ pnpm-debug.log*
 /.env
 /.env.local
 /.env.*.local
+
